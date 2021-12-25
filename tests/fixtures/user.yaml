@@ -1,0 +1,4 @@
+App\Entity\User:
+  member:
+    email: member-email@quartetcom.co.jp
+    password: 'password'
