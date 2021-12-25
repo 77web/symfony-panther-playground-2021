@@ -26,6 +26,7 @@
     },
     "require-dev": {
         "dbrekelmans/bdi": "^1.0",
+        "doctrine/doctrine-fixtures-bundle": "^3.4",
         "liip/test-fixtures-bundle": "^2.2",
         "nelmio/alice": "^3.10",
         "phpunit/phpunit": "^9.5",
